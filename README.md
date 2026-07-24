@@ -1975,64 +1975,68 @@ You're a carpenter who built a chair. You could test the chair by sitting on it 
 ### Q98: Tell me about yourself (60–90 seconds).
 
 **Core Explanation:**
-This is your opening pitch. It should be a concise narrative that covers: (1) Your background (education or previous work), (2) Your relevant experience (development projects, testing exposure), (3) Why you're transitioning into QA, and (4) Why you're excited about this specific role at Appifylab. Keep it to 60-90 seconds—long enough to be substantive, short enough to not lose their attention. The goal is to tell a story that positions you as a passionate, detail-oriented candidate with a unique hybrid skillset.
+## Q98: Tell me about yourself (60–90 seconds)
 
-**Example:**
-*"I'm a passionate tech enthusiast with a strong background in full-stack development—specifically the MERN stack. I built several projects, including an e-commerce dashboard and a task management app, which gave me a deep understanding of how software is architected and where bugs are most likely to hide.*
-*While I enjoyed building features, I realized I actually get more satisfaction from the detective work of testing—finding the subtle edge cases that developers overlook. I've spent the last few months actively learning Playwright, Postman, and modern QA methodologies to bridge that gap.*
-*I'm specifically excited about Appifylab because of EzyCourse. A platform that handles complex subscriptions, live streaming, and role-based access requires rigorous quality assurance, and I want to be the person who ensures that every user has a flawless experience. I'm looking for an internship where I can translate my development background into a career as a reliable, detail-oriented SDET."*
+Thank you for this opportunity. My name is Robiul Islam, from Sylhet, and I recently completed my Bachelor's in Computer Science and Engineering at Leading University.
+
+From an early age I was drawn to computers and the internet, which led me into web development. Over time I built a solid, practical foundation in HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB — working across several projects that taught me not just how to build features, but how they tend to break.
+
+While working on one of my personal projects, I ended up doing a lot of the manual testing myself — going through each page and user flow carefully. I caught and helped fix things like buttons that looked fine but didn't actually trigger the right action, missing validation messages, and even a case where an admin-only page wasn't properly restricted for regular users. Going through that process, I realized I actually enjoyed that side of the work more than writing the feature itself — deliberately trying to break something to make it more reliable. That's what pulled me toward QA, and I've since been learning Playwright, Postman, and core testing methodologies to build on that instinct properly.
+
+I'm especially excited about Appifylab because of EzyCourse a platform with real subscriptions, role-based access, and live content, which is exactly the kind of complexity I want to test rigorously. I see this internship as the right place to turn my development background into a career as a detail-oriented QA engineer.
 
 **Intern Takeaway:** Practice this out loud until it flows naturally. Time yourself. Don't ramble. End with a clear statement about why you want this specific role.
 
 ---
 
-### Q99: Why SQA / why this role?
+## Q99: Why SQA / why this role?
 
-**Core Explanation:**
-You need to articulate why you chose Quality Assurance over other tech roles (development, DevOps, etc.). Focus on the aspects of QA that genuinely appeal to you: the detective work, the user advocacy, the challenge of breaking systems in creative ways. Emphasize that QA is not a "fallback" but a deliberate choice. Your development background makes you a stronger QA because you understand the code, can communicate effectively with developers, and can write robust automation scripts.
+There are a few layers to this, but it starts with something genuine. While working on one of my personal projects, I ended up spending a lot of time manually testing it — going through every page, every button, every user flow. I caught things like buttons that looked fine but didn't actually trigger the right action, missing validation messages, and even a case where an admin-only page wasn't properly restricted. What surprised me was how much I enjoyed that process — deliberately trying to break something, thinking like a user who does the "wrong" thing on purpose, and then seeing the fix actually hold up. I got more satisfaction from that than from writing the feature itself.
 
-**Analogy:**
-Some people build the race car (developers). Others drive the race car (end-users). You want to be the test driver who pushes the car to its limits, finds its weaknesses, and makes it safer and faster for everyone else.
+That experience made me realize QA isn't just "checking if things work" — it's a mindset. Developers are naturally focused on the happy path, because their job is to make the feature exist. QA's job is to think about everything the developer didn't have time to consider — the edge cases, the wrong inputs, the "what if the user does this instead" scenarios. That kind of detective work genuinely appeals to me more than pure feature-building does.
 
-**Example:**
-*"I choose SQA because it sits at the intersection of technology and user experience. I have a sharp eye for detail and genuinely enjoy breaking down complex systems to find weak points. Unlike a developer who is judged by how fast they write features, a QA engineer is judged by how well they protect the user experience. I find it incredibly rewarding to be the last line of defense before a product reaches the customer, ensuring they have a seamless and bug-free experience. My development background gives me a massive advantage—I can read the code to find the root cause, communicate with developers in their language, and write more robust automation scripts. I see QA as a specialization in quality engineering, not a step down from development."*
+I also think the timing makes sense strategically, not just personally. Right now, AI is helping generate and ship code faster than ever, which means more code is entering production faster than teams can manually verify it. That doesn't shrink the need for quality — it raises it. The bottleneck in software isn't "can we write this feature" anymore, it's "can we trust that it actually works and is safe." That tells me QA isn't a smaller or secondary role going forward — it's becoming more central to how software gets shipped responsibly.
+
+On top of that, I think my development background is a real advantage here rather than something separate from QA. Because I've written the kind of code I'll be testing, I understand where bugs typically hide — boundary conditions, missed validation, broken access control — and I can read a stack trace or a network request instead of only clicking around blindly. I can also communicate with developers in their own language when I log a bug, which makes the back-and-forth faster and less frustrating for both sides.
+
+So overall, I'm not choosing SQA as a fallback — I'm choosing it because I've already experienced firsthand that I enjoy this specific kind of work, I believe it's a growing and increasingly important discipline, and my technical background lets me contribute to it more effectively than someone coming in with no coding experience at all.
 
 **Intern Takeaway:** Be authentic. Don't pretend QA is your "passion" if you're just using it as a stepping stone. Interviewers can tell. If you genuinely love the problem-solving aspect, lean into that.
 
 ---
 
-### Q100: Why Appifylab? What do you know about us?
+## Q100: Why Appifylab? What do you know about us? What do you know about EzyCourse?
 
-**Core Explanation:**
-This tests whether you've done your research. You should mention specific things about the company: its product (EzyCourse), its mission (empowering creators), its tech stack (if known), and its culture (if mentioned on the website or LinkedIn). Show that you understand what the company does and why it matters. Connect your interest to their product—you want to test a platform that actually impacts real businesses and creators.
+From what I understand, Appifylab started as a client-based web and mobile development agency here in Sylhet — building custom websites, e-commerce solutions, and business software for a range of clients. Over time, that agency experience turned into your own product suite — EzyCourse, EzyCommunity, EzyStudio, EzyLive, with more like EzyForm and EzyWebinar on the way. That evolution from "we build for others" to "we build our own platform" tells me a lot about the team's technical maturity — you're not experimenting with your first product, you're applying years of client-project lessons into something you fully own.
 
-**Example:**
-*"I admire Appifylab's mission of empowering creators and entrepreneurs through tools like EzyCourse. The SaaS industry is highly competitive, and quality is the main differentiator. I researched your stack and saw you rely heavily on modern tech. I am genuinely excited about the opportunity to test a complex ecosystem involving live streaming, course creation, and payment gateways. I want to join a team where I can grow my automation skills (Playwright) and contribute to a product that actually impacts real businesses. I've also read about your collaborative culture and how you invest in interns—that's exactly the environment I'm looking for to start my career."*
+I also like that Appifylab is genuinely rooted in Sylhet, with the head office right here, while still running a Dhaka office and having a presence internationally. That combination — local roots with global reach — is exactly the kind of environment I want to grow in, without needing to relocate to Dhaka or abroad.
 
-**Intern Takeaway:** Browse the company website, LinkedIn, and any public documentation. If possible, explore the product demo. Mentioning specific features (like the drag-and-drop builder or the live streaming) shows initiative.
+On EzyCourse specifically: it's your flagship no-code SaaS product, letting entrepreneurs and educators build and sell courses, communities, and memberships without needing to code. From a QA standpoint, that's a genuinely demanding product to get right — it involves subscription billing, role-based access for creators versus students, and live content delivery, all running on a no-code interface that has to stay reliable no matter what a non-technical user configures.
+---
+
+## Q101: What are your greatest strengths and weaknesses?
+
+**Strength — Fast Learner:**
+One of my biggest strengths is how quickly I pick up new tools and technologies. I taught myself the full MERN stack largely through self-directed learning and a structured course, and I've since applied that same approach to QA — picking up Playwright, Postman, and core testing methodologies on my own, outside of any classroom setting, in a fairly short amount of time. I don't wait for someone to hand me a tutorial; if I need to learn something to solve a problem, I go find it and figure it out.
+
+**Weakness — Over-investing time in edge cases:**
+Because I enjoy the investigative side of testing, I sometimes go too deep down a single edge case testing five more "what if" variations on a scenario that's already reasonably covered instead of moving on to the next area that hasn't been touched at all. It comes from a good place, but it's not always the most efficient use of time, especially under a deadline.
+
+I've been working on this by time-boxing my exploration giving myself a fixed window to test a specific flow, noting any extra "what if" ideas I think of along the way, and coming back to them only if time allows, rather than chasing every one immediately. It's helped me stay just as thorough without losing track of the bigger picture.
 
 ---
 
-### Q101: What are your greatest strengths and weaknesses?
+## Q102: Walk me through a project you're proud of.
 
-**Core Explanation:**
-For strengths, pick 1-2 that are directly relevant to QA (attention to detail, analytical thinking, communication, adaptability). For weaknesses, pick a real weakness that is not a dealbreaker for QA (e.g., being overly critical of your own work, having trouble saying "no," or getting too deep into technical details). The key is to show that you are **actively working on improving it** with a concrete strategy.
+The project I'm most proud of is LU Pulse — a centralized notice and event delivery system I built for university communication, using React, Node.js, Express, MongoDB, and Firebase for authentication.
 
-**Example:**
-- **Strength:** *"My strongest trait is my analytical thinking. I don't just report a bug; I like to investigate the root cause and log it with clear reproduction steps, which saves developer time. Additionally, my development background makes me highly adaptable to learning new automation tools quickly."*
-- **Weakness:** *"I can sometimes be too critical of my own work, spending too much time making my test cases 'perfect' before moving on. To fix this, I've started applying a time-boxing technique—I give myself a strict limit to write the test case, move to execution, and tell myself I can always refine it later during a maintenance cycle. This has helped me become more productive without compromising quality."*
+**Situation:** The system needed three distinct user roles — Student, Admin, and Super Admin — each with different permissions. Students should only view notices and events relevant to them, Admins could create and manage content, and Super Admins had full control over the platform. Getting that access control right was critical, since a mistake there means the wrong people seeing or editing the wrong data.
 
-**Intern Takeaway:** Never say "I'm a perfectionist" as your weakness. It's overused and seen as a humble-brag. Pick a real weakness and show you're actively fixing it.
+**Task:** Beyond just building the role-based features, I took it on myself to manually verify that every role actually stayed within its boundaries — not just that the UI hid certain buttons, but that the backend itself enforced those restrictions.
 
----
+**Action:** I went through each role manually — logging in as a Student, then an Admin, then a Super Admin — and checked what each could actually see and do, rather than assuming the UI reflected the real permissions. I also tested the API layer directly, hitting endpoints for restricted routes without proper authentication or with the wrong role, and checking that the server correctly returned 401 or 403 responses instead of quietly allowing access. During this, I found that user roles were being trusted directly from the JWT payload without a corresponding database check — meaning if that token were ever tampered with, a user could potentially claim a higher-privilege role than they actually had. I flagged it and fixed the verification logic so the role was always confirmed against the database. I used Chrome DevTools' Network tab throughout to inspect these requests and responses closely, since that was my main tool for catching mismatches between what the UI showed and what the backend actually allowed.
 
-### Q102: Walk me through a project you're proud of.
-
-**Core Explanation:**
-This is your "star" story. Pick a project that demonstrates multiple skills: technical ability, problem-solving, collaboration, and quality assurance thinking. It could be a development project where you also wrote tests, or a project where you identified and fixed a critical bug. Structure it using **STAR**: Situation, Task, Action, Result. Focus on the testing/quality aspect, even if it wasn't a formal QA role.
-
-**Example:**
-*"I built a Task Management Dashboard using the MERN stack. I was proud of it because I integrated a real-time notification system using WebSockets. However, the project that taught me the most was writing the test suite for it. I wrote end-to-end tests using Playwright that simulated a user creating a task, assigning it to someone, and receiving a notification. During this, I realized my UI was sending duplicate notifications to the database. If I hadn't written that test, I would have shipped that bug to production. It taught me the tangible value of automation. I also collaborated with a teammate to refactor the code and add proper error handling, which improved the system's stability significantly."*
+**Result:** The platform ended up with properly enforced role boundaries instead of just visually hidden ones. This was mostly manual, exploratory testing combined with direct API checks — I didn't have automation in place at the time — but it's exactly what pushed me to start learning tools like Postman and Playwright afterward, so I could do this same kind of verification more systematically and repeatably rather than by hand every time.
 
 **Intern Takeaway:** Quantify the impact if possible. "This saved me 2 hours of manual testing per week" or "This caught a critical bug that would have affected 500 users." It makes the story more powerful.
 
@@ -2040,10 +2044,6 @@ This is your "star" story. Pick a project that demonstrates multiple skills: tec
 
 ### Q103: Why should we hire you?
 
-**Core Explanation:**
-This is your closing pitch. Summarize your unique value proposition: your hybrid skillset (development + QA), your technical knowledge (Playwright, Postman, MERN), your soft skills (communication, attention to detail), and your enthusiasm for the company and product. Be confident but not arrogant. Connect everything back to how you will contribute to the team from Day 1.
-
-**Example:**
 *"You should hire me because I bring a hybrid skillset. Most interns have either pure manual testing knowledge or pure coding knowledge. I have both. I understand the development lifecycle thoroughly, so I won't write vague bug reports that devs can't understand. I will integrate quickly into your Agile workflow, contribute to your Playwright automation suite immediately, and most importantly, I'm eager to learn your specific product deeply and ensure EzyCourse delivers a flawless experience for your users. I'm not just looking for any internship—I'm looking for an opportunity to grow with a team that values quality, and I believe I can hit the ground running."*
 
 **Intern Takeaway:** Tailor this to the company. If they mentioned a specific challenge (e.g., scaling automation), address it directly. Show you've been listening.
