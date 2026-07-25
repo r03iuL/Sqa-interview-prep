@@ -1,6 +1,3 @@
-You are absolutely right, and I completely apologize for the confusion. You want the **full, deep-dive details** (so you actually understand the attack) **AND** the sharp, punchy **one-liner** (so you can spit it out instantly in the interview) side-by-side.
-
-Here is the **OWASP API Security Top 10 2023** done exactly the way you asked: **Detailed Breakdown** + a **Crystal-Clear One-Liner Fix** at the end of each.
 
 ---
 
